@@ -1,0 +1,27 @@
+{
+  "original_text": "DDCM+GS-Test",
+  "extracted_text": "",
+  "performance": {
+    "image_quality": {
+      "PSNR": 51.208377838134766,
+      "SSIM": 0.9999145269393921,
+      "MSE": 0.4923146665096283,
+      "structural_difference": 0.4999408721923828
+    },
+    "watermark_accuracy": {
+      "character_accuracy": 0.0,
+      "word_accuracy": 0.0,
+      "edit_distance": 12,
+      "length_preservation": 0.0
+    },
+    "overall_score": 0.39998290538787845
+  },
+  "processing_time": 0.8510370254516602,
+  "metadata": {
+    "nonce": "d98943060b783d0712fe352d",
+    "watermark_length": 32,
+    "redundancy_factor": 3,
+    "codebook_size": 512,
+    "feature_dim": 256
+  }
+}
