@@ -3,10 +3,10 @@
   "extracted_text": "",
   "performance": {
     "image_quality": {
-      "PSNR": 51.208377838134766,
-      "SSIM": 0.9999145269393921,
-      "MSE": 0.4923146665096283,
-      "structural_difference": 0.4999408721923828
+      "PSNR": 51.209007263183594,
+      "SSIM": 0.9999146461486816,
+      "MSE": 0.4922434389591217,
+      "structural_difference": 0.49993985891342163
     },
     "watermark_accuracy": {
       "character_accuracy": 0.0,
@@ -14,11 +14,11 @@
       "edit_distance": 12,
       "length_preservation": 0.0
     },
-    "overall_score": 0.39998290538787845
+    "overall_score": 0.39998292922973633
   },
-  "processing_time": 0.8510370254516602,
+  "processing_time": 0.8516886234283447,
   "metadata": {
-    "nonce": "d98943060b783d0712fe352d",
+    "nonce": "a48bf18169c2f91eca0473e6",
     "watermark_length": 32,
     "redundancy_factor": 3,
     "codebook_size": 512,
